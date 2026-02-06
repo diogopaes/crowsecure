@@ -1,0 +1,7 @@
+{
+  "name": "CrawSecure",
+  "version": "0.1.0",
+  "description": "Security scanner for ClawHub skills",
+  "permissions": ["read-only"],
+  "entry": "dist/index.js"
+}

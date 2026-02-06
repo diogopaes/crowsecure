@@ -1,0 +1,8 @@
+[
+  "rm -rf",
+  "eval(",
+  "exec(",
+  "spawn(",
+  "curl",
+  "wget"
+]
